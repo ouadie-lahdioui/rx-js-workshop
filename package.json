@@ -1,0 +1,40 @@
+{
+  "name": "rx-js-workshop",
+  "version": "0.0.1",
+  "description": "Reactive eXtensions for JavaScript workshop",
+  "main": "index.js",
+  "scripts": {
+    "start": "node exercises/demo-server/app.js",
+    "generate": "split-guide generate",
+    "info": "npm-scripts-info"
+  },
+  "scripts-info": {
+    "info": "Displays information about the scripts.",
+    "start": "Kickstarts the application."
+  },
+  "keywords": [
+    "rx",
+    "rxjs",
+    "reactive",
+    "extension"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ouadie-lahdioui/rx-js-workshop"
+  },
+  "license": "SEE LICENSE IN license.txt",
+  "bugs": {
+    "url": "https://github.com/ouadie-lahdioui/rx-js-workshop/issues"
+  },
+  "dependencies": {
+    "rxjs": "^5.0.3",
+    "npm-scripts-info": "^0.3.6"
+  },
+  "devDependencies": {
+    "cors": "^2.8.3",
+    "express": "^4.14.0",
+    "nodemon": "^1.11.0",
+    "split-guide": "^1.2.0",
+    "ws": "^1.1.4"
+  }
+}

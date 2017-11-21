@@ -32,4 +32,4 @@ To run an example just run
 ```
 node exercises/FILE_NAME.js
 ```
-### Enjoy :wink2:
+### Enjoy :wink:

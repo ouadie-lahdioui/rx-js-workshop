@@ -1,8 +1,8 @@
-# rx-workshop-1
+# RxJS Workshop
 
 <p align="center">
 	<a href="https://goo.gl/uRWLFS" target="_blank">
-	    <img src="assets/reactive-extensions.png">
+	    <img src="assets/Header.png">
 	</a>
 </p>
 
@@ -13,7 +13,12 @@
 
 ### Setup
 
-After you've cloned or copied the repository, run an npm install:
+Clone the project :
+```
+git clone git@github.com:ouadie-lahdioui/rx-js-workshop.git
+```
+
+After you've cloned or copied the repository, run an npm install :
 
 ```
 npm install

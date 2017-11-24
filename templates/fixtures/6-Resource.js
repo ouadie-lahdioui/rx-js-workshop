@@ -1,4 +1,5 @@
 class Resource {
+  
   constructor() {
     this._handlers = { data: [] };
   }
